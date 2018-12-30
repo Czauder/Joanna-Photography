@@ -1,4 +1,4 @@
-#  Joanna-Photography
+#  Joanna Photography
 
 
 Fake website for learning purpose. Thinking Mobile-First.
